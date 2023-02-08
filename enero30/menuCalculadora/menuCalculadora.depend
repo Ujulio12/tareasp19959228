@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1675696998 source:c:\jemr\proyectos\tareasp19959228\enero30\menucalculadora\main.cpp
+	<iostream>
+	<cstdlib>
+
